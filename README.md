@@ -6,3 +6,4 @@
 * https://www.datascience-pm.com/crisp-dm-2/
 * https://www.datascience-pm.com/ad-hoc/
 * https://www.datascience-pm.com/waterfall/
+* https://towardsdatascience.com/3-critical-aspects-of-effective-stakeholder-management-for-data-science-projects-b2bf3a472da3
